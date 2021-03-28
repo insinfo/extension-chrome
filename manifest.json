@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Copia Sessão",
+    "description": "Esta extensão é para copiar dados da sessão",
+    "version": "2.0",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "storage"
+    ]
+}
